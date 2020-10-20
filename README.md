@@ -1,4 +1,7 @@
 # training-test
 Testing for training
 *italic* 
-#Title
+A friend once said:
+
+> It's always better to give 
+> than to receive.
